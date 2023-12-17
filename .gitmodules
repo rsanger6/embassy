@@ -1,0 +1,3 @@
+[submodule "examples/Icarus"]
+	path = examples/Icarus
+	url = https://github.com/MachIndustries/Icarus.git
